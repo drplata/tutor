@@ -1,0 +1,10 @@
+streamlit
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+python-docx
+python-pptx
+pandas
+openpyxl
